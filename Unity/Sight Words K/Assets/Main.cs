@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -7,26 +8,20 @@ public class Main : MonoBehaviour
 {
 
     public Text text, color;
-    public int item = 0;
-
-    string[] words = new string[] { "I", "a", "am", "at", "the", "see", "had", "as", "and", "it", "in", "is",
-                                    "can", "do", "have", "go", "he", "has", "to", "on", "did", "all", "was",
-                                    "what", "you", "we", "up", "she", "him", "her", "his", "look", "for", "boy",
-                                    "girl", "said", "they", "with", "but", "of", "little", "then", "be", "were",
-                                    "that", "down", "some", "there", "out", "when"
-                                    };
-
-    // Use this for initialization
-    void Start()
-    {
-        text.text = words[item];
-    }
+    private static int item = 0;
+    private static string[] words = System.IO.File.ReadAllLines(@"Assets\SightWords.txt");
 
     // Update is called once per frame
     void Update()
     {
+        text.text = words[item];
+        UserInput();
+    }
 
-        if ((Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.RightArrow)) && item < 49)
+    void UserInput()
+    {
+        if ((Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.RightArrow)) && words[item + 1] != "99")
+        
         {
             item++;
             RandColor();
@@ -40,21 +35,19 @@ public class Main : MonoBehaviour
         {
             Application.Quit();
         }
-
-        text.text = words[item];
     }
 
     void RandColor()
     {
-        float textColor;
-        textColor = Mathf.Round((Random.value) * 5);
+        int textColor = Random.Range(0,5);
+
         if (textColor == 0)
         {
             text.color = Color.red;
         }
         else if (textColor == 1)
         {
-            text.color = Color.blue;
+            text.color = new Color32(75, 75, 255, 255);  // brighter blue
         }
         else if (textColor == 2)
         {

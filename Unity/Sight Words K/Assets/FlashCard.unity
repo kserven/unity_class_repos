@@ -396,7 +396,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.4852941, g: 0.63558835, b: 1, a: 1}
+  m_Color: {r: 0.29411766, g: 0.29411766, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -416,7 +416,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: I
+  m_Text: 
 --- !u!222 &1877130651
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -451,8 +451,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   text: {fileID: 1877130650}
-  color: {fileID: 0}
-  item: 0
+  color: {fileID: 1877130650}
 --- !u!4 &1915148105
 Transform:
   m_ObjectHideFlags: 0
