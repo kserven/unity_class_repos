@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEditor.SceneManagement;
+using UnityEngine.SceneManagement;
 
 public class TitleKey : MonoBehaviour
 {
@@ -12,7 +12,7 @@ public class TitleKey : MonoBehaviour
     {
         if (Input.anyKeyDown)
         {
-                  
+            SceneManager.LoadSceneAsync("FlashCard");      
         }
     }
 }

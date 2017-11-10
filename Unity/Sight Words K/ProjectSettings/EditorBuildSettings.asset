@@ -6,5 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Start.unity
+    guid: f61a9ff174adfeb4fb245b0ed694d668
+  - enabled: 1
     path: Assets/FlashCard.unity
     guid: 2508b6dc50720a748b511d1624926bfa
