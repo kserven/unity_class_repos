@@ -9,7 +9,12 @@ public class Main : MonoBehaviour
 
     public Text text, color;
     private static int item = 0;
-    private static string[] words = System.IO.File.ReadAllLines(@"Assets\SightWords.txt");
+    string[] words = new string[] { "I", "a", "am", "at", "the", "see", "had", "as", "and", "it", "in", "is",
+                                    "can", "do", "have", "go", "he", "has", "to", "on", "did", "all", "was",
+                                    "what", "you", "we", "up", "she", "him", "her", "his", "look", "for", "boy",
+                                    "girl", "said", "they", "with", "but", "of", "little", "then", "be", "were",
+                                    "that", "down", "some", "there", "out", "when","99"
+                                    };
 
     // Update is called once per frame
     void Update()
