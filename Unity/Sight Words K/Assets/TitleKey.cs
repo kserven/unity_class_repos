@@ -12,7 +12,7 @@ public class TitleKey : MonoBehaviour
     {
         if (Input.anyKeyDown)
         {
-            SceneManager.LoadSceneAsync("FlashCard");      
+            SceneManager.LoadSceneAsync(SceneUtility.GetScenePathByBuildIndex(1),LoadSceneMode.Single);
         }
     }
 }
