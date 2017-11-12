@@ -6,13 +6,17 @@ using UnityEngine.SceneManagement;
 
 public class TitleKey : MonoBehaviour
 {
+    private void Start()
+    {
+        Screen.fullScreen = true;
+    }
 
     // Update is called once per frame
     void Update()
     {
         if (Input.anyKeyDown)
         {
-            SceneManager.LoadSceneAsync("FlashCard");      
+            SceneManager.LoadScene("FlashCard");
         }
     }
 }
