@@ -274,16 +274,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'INSTRUCTIONS:
-
-    Press (Space) or (Right Arrow) to move to next word.
-
-    Press (Left Arrow) to go back to the last word.
-
-    Press (Q) or (ESC) to Quit
-
-
-    Press Any Key to Start'
+  m_Text: Press Any Key to Start
 --- !u!222 &1103653340
 CanvasRenderer:
   m_ObjectHideFlags: 0

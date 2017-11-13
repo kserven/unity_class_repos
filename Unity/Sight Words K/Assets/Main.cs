@@ -20,18 +20,18 @@ public class Main : MonoBehaviour
     void Update()
     {
         text.text = words[item];
-        UserInput();
+        UserKeyInput();
     }
 
-    void UserInput()
+    void UserKeyInput()
     {
-        if ((Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.RightArrow)) && words[item + 1] != "99")
+        if ((Input.GetKeyDown(KeyCode.M) || Input.GetKeyDown(KeyCode.RightArrow)) && words[item + 1] != "99")
         
         {
             item++;
             RandColor();
         }
-        else if (Input.GetKeyDown(KeyCode.LeftArrow) && item > 0)
+        else if (Input.GetKeyDown(KeyCode.P) && item > 0)
         {
             item--;
             RandColor();
@@ -40,6 +40,29 @@ public class Main : MonoBehaviour
         {
             Application.Quit();
         }
+    }
+
+    public void PreviousButtonClick()
+    {
+        if (item > 0)
+        {
+            item--;
+            RandColor();
+        }
+    }
+
+    public void NextButtonClick()
+    {
+        if (words[item +1] != "99")
+        {
+            item++;
+            RandColor();
+        }
+    }
+
+    public void QuitButtonPress()
+    {
+        Application.Quit();
     }
 
     void RandColor()
