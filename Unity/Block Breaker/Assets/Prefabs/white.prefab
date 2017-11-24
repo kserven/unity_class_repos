@@ -78,6 +78,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac4c8ff4223eb094fa49858b74bf935d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  click: {fileID: 8300000, guid: 8700c9f997237e844beb4a2d6888ecb5, type: 3}
   hitSprites:
   - {fileID: 21300010, guid: 28963f0a82101804592ccd960cbe0fd7, type: 3}
 --- !u!212 &212461914921184978
