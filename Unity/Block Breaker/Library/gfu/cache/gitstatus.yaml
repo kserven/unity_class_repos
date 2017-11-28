@@ -1,0 +1,1107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: e206842104c39854182a3706fa5a67bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastUpdatedAtString: 2017-11-28T15:01:46.4463439-08:00
+  lastVerifiedAtString: 2017-11-28T15:01:46.4463439-08:00
+  status:
+    LocalBranch: master
+    RemoteBranch: origin/master
+    Ahead: 0
+    Behind: 0
+    Entries:
+    - Path: Unity\Block Breaker\.vs\Block Breaker\v15\sqlite3\storage.ide
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\.vs\Block Breaker\v15\sqlite3\storage.ide
+      ProjectPath: .vs\Block Breaker\v15\sqlite3\storage.ide
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Prefabs\Paddle.prefab
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Prefabs\Paddle.prefab
+      ProjectPath: Assets\Prefabs\Paddle.prefab
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Prefabs\green.prefab
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Prefabs\green.prefab
+      ProjectPath: Assets\Prefabs\green.prefab
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Prefabs\red.prefab
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Prefabs\red.prefab
+      ProjectPath: Assets\Prefabs\red.prefab
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Prefabs\yellow.prefab
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Prefabs\yellow.prefab
+      ProjectPath: Assets\Prefabs\yellow.prefab
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Scripts\Brick.cs
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Scripts\Brick.cs
+      ProjectPath: Assets\Scripts\Brick.cs
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Scripts\Paddle.cs
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Scripts\Paddle.cs
+      ProjectPath: Assets\Scripts\Paddle.cs
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Sprites\bricks.png
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Sprites\bricks.png
+      ProjectPath: Assets\Sprites\bricks.png
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Sprites\bricks.png.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Sprites\bricks.png.meta
+      ProjectPath: Assets\Sprites\bricks.png.meta
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\_Scenes\Level_01.unity
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\_Scenes\Level_01.unity
+      ProjectPath: Assets\_Scenes\Level_01.unity
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\_Scenes\Level_02.unity
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\_Scenes\Level_02.unity
+      ProjectPath: Assets\_Scenes\Level_02.unity
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\_Scenes\Level_03.unity
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\_Scenes\Level_03.unity
+      ProjectPath: Assets\_Scenes\Level_03.unity
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\CurrentLayout.dwlt
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\CurrentLayout.dwlt
+      ProjectPath: Library\CurrentLayout.dwlt
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\LastSceneManagerSetup.txt
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\LastSceneManagerSetup.txt
+      ProjectPath: Library\LastSceneManagerSetup.txt
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\ProjectSettings.asset
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\ProjectSettings.asset
+      ProjectPath: Library\ProjectSettings.asset
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\ScriptAssemblies\Assembly-CSharp.dll
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\ScriptAssemblies\Assembly-CSharp.dll
+      ProjectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      ProjectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\assetDatabase3
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\assetDatabase3
+      ProjectPath: Library\assetDatabase3
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\00\00000000000000004000000000000000
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\00\00000000000000004000000000000000
+      ProjectPath: Library\metadata\00\00000000000000004000000000000000
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\00\00000000000000005100000000000000
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\00\00000000000000005100000000000000
+      ProjectPath: Library\metadata\00\00000000000000005100000000000000
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\00\00000000000000008000000000000000
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\00\00000000000000008000000000000000
+      ProjectPath: Library\metadata\00\00000000000000008000000000000000
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\08\08a65a9d39f1c9f4ca5765a3ab2454f0.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\08\08a65a9d39f1c9f4ca5765a3ab2454f0.info
+      ProjectPath: Library\metadata\08\08a65a9d39f1c9f4ca5765a3ab2454f0.info
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\28\28963f0a82101804592ccd960cbe0fd7
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\28\28963f0a82101804592ccd960cbe0fd7
+      ProjectPath: Library\metadata\28\28963f0a82101804592ccd960cbe0fd7
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\28\28963f0a82101804592ccd960cbe0fd7.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\28\28963f0a82101804592ccd960cbe0fd7.info
+      ProjectPath: Library\metadata\28\28963f0a82101804592ccd960cbe0fd7.info
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\3d\3d5402c1efff6744c9f10c0d9019aa45.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\3d\3d5402c1efff6744c9f10c0d9019aa45.info
+      ProjectPath: Library\metadata\3d\3d5402c1efff6744c9f10c0d9019aa45.info
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\57\578d6f4fa67252b4c8d15d5ce78da3fa
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\57\578d6f4fa67252b4c8d15d5ce78da3fa
+      ProjectPath: Library\metadata\57\578d6f4fa67252b4c8d15d5ce78da3fa
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\a4\a48488450cace2242aecf6fa1b42bdb6.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\a4\a48488450cace2242aecf6fa1b42bdb6.info
+      ProjectPath: Library\metadata\a4\a48488450cace2242aecf6fa1b42bdb6.info
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\ac\ac4c8ff4223eb094fa49858b74bf935d
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\ac\ac4c8ff4223eb094fa49858b74bf935d
+      ProjectPath: Library\metadata\ac\ac4c8ff4223eb094fa49858b74bf935d
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\e3\e39f806edde130c4180ac8a23773ab8b.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\e3\e39f806edde130c4180ac8a23773ab8b.info
+      ProjectPath: Library\metadata\e3\e39f806edde130c4180ac8a23773ab8b.info
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      ProjectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\ProjectSettings\ProjectSettings.asset
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\ProjectSettings\ProjectSettings.asset
+      ProjectPath: ProjectSettings\ProjectSettings.asset
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Unity\Block Breaker\.collabignore
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\.collabignore
+      ProjectPath: .collabignore
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins.meta
+      ProjectPath: Assets\Plugins.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub.meta
+      ProjectPath: Assets\Plugins\GitHub.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\CREDITS.txt
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\CREDITS.txt
+      ProjectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\EULA.txt
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\EULA.txt
+      ProjectPath: Assets\Plugins\GitHub\Editor\EULA.txt
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\EULA.txt.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\EULA.txt.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\Octokit.dll.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\Octokit.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\Octokit.dll.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\PlatformResources.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\PlatformResources.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\System.Net.Http.dll.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\System.Net.Http.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\System.Net.Http.dll.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      ProjectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\libsfw.so
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\libsfw.so
+      ProjectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\x64.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\x64.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\x86.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\x86.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Prefabs\Smoke.prefab
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Prefabs\Smoke.prefab
+      ProjectPath: Assets\Prefabs\Smoke.prefab
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Prefabs\Smoke.prefab.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Prefabs\Smoke.prefab.meta
+      ProjectPath: Assets\Prefabs\Smoke.prefab.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Sprites\chamPaddle.png
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Sprites\chamPaddle.png
+      ProjectPath: Assets\Sprites\chamPaddle.png
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Sprites\chamPaddle.png.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Sprites\chamPaddle.png.meta
+      ProjectPath: Assets\Sprites\chamPaddle.png.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Standard Assets.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Standard Assets.meta
+      ProjectPath: Assets\Standard Assets.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Standard Assets\ParticleSystems.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Standard Assets\ParticleSystems.meta
+      ProjectPath: Assets\Standard Assets\ParticleSystems.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Standard Assets\ParticleSystems\Materials.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Standard Assets\ParticleSystems\Materials.meta
+      ProjectPath: Assets\Standard Assets\ParticleSystems\Materials.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Standard Assets\ParticleSystems\Materials\ParticleSmokeWhite.mat
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Standard Assets\ParticleSystems\Materials\ParticleSmokeWhite.mat
+      ProjectPath: Assets\Standard Assets\ParticleSystems\Materials\ParticleSmokeWhite.mat
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Assets\Standard Assets\ParticleSystems\Materials\ParticleSmokeWhite.mat.meta
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Assets\Standard Assets\ParticleSystems\Materials\ParticleSmokeWhite.mat.meta
+      ProjectPath: Assets\Standard Assets\ParticleSystems\Materials\ParticleSmokeWhite.mat.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\Collab\CollabSnapshot_466a14cd-6ba6-4a39-8c68-c9d8c9c9232e.txt
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\Collab\CollabSnapshot_466a14cd-6ba6-4a39-8c68-c9d8c9c9232e.txt
+      ProjectPath: Library\Collab\CollabSnapshot_466a14cd-6ba6-4a39-8c68-c9d8c9c9232e.txt
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\EditorInstance.json
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\EditorInstance.json
+      ProjectPath: Library\EditorInstance.json
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\ShaderCache\1\146378478e48ead4c9b880babd01af8c.bin
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\ShaderCache\1\146378478e48ead4c9b880babd01af8c.bin
+      ProjectPath: Library\ShaderCache\1\146378478e48ead4c9b880babd01af8c.bin
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\ShaderCache\b\b181e4a3ddcbc864371e71048774a570.bin
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\ShaderCache\b\b181e4a3ddcbc864371e71048774a570.bin
+      ProjectPath: Library\ShaderCache\b\b181e4a3ddcbc864371e71048774a570.bin
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\ShaderCache\f\f6eb87a204ff0e81e13d3a06413a2846.bin
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\ShaderCache\f\f6eb87a204ff0e81e13d3a06413a2846.bin
+      ProjectPath: Library\ShaderCache\f\f6eb87a204ff0e81e13d3a06413a2846.bin
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\ShaderCache\f\f758381840e113092112044dc25415da.bin
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\ShaderCache\f\f758381840e113092112044dc25415da.bin
+      ProjectPath: Library\ShaderCache\f\f758381840e113092112044dc25415da.bin
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\gfu\cache\branches.yaml
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\gfu\cache\branches.yaml
+      ProjectPath: Library\gfu\cache\branches.yaml
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\gfu\cache\gitlocks.yaml
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\gfu\cache\gitlocks.yaml
+      ProjectPath: Library\gfu\cache\gitlocks.yaml
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\gfu\cache\gitlog.yaml
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\gfu\cache\gitlog.yaml
+      ProjectPath: Library\gfu\cache\gitlog.yaml
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\gfu\cache\gitstatus.yaml
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\gfu\cache\gitstatus.yaml
+      ProjectPath: Library\gfu\cache\gitstatus.yaml
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\gfu\cache\repoinfo.yaml
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\gfu\cache\repoinfo.yaml
+      ProjectPath: Library\gfu\cache\repoinfo.yaml
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      ProjectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      ProjectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\04\04b3be0a51e83204dbf11ef8ac0f1277
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\04\04b3be0a51e83204dbf11ef8ac0f1277
+      ProjectPath: Library\metadata\04\04b3be0a51e83204dbf11ef8ac0f1277
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\04\04b3be0a51e83204dbf11ef8ac0f1277.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\04\04b3be0a51e83204dbf11ef8ac0f1277.info
+      ProjectPath: Library\metadata\04\04b3be0a51e83204dbf11ef8ac0f1277.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\11\11043fc3a881495409d0828a9dcb372e
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\11\11043fc3a881495409d0828a9dcb372e
+      ProjectPath: Library\metadata\11\11043fc3a881495409d0828a9dcb372e
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\11\11043fc3a881495409d0828a9dcb372e.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\11\11043fc3a881495409d0828a9dcb372e.info
+      ProjectPath: Library\metadata\11\11043fc3a881495409d0828a9dcb372e.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\13\136dc24f151211d438acee17aff4e934
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\13\136dc24f151211d438acee17aff4e934
+      ProjectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      ProjectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      ProjectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      ProjectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      ProjectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      ProjectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\18\18eb894d53ff491408b69602eb959000
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\18\18eb894d53ff491408b69602eb959000
+      ProjectPath: Library\metadata\18\18eb894d53ff491408b69602eb959000
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\18\18eb894d53ff491408b69602eb959000.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\18\18eb894d53ff491408b69602eb959000.info
+      ProjectPath: Library\metadata\18\18eb894d53ff491408b69602eb959000.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
+      ProjectPath: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
+      ProjectPath: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      ProjectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      ProjectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\23\23c8bee69b591054094d32918f98facd
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\23\23c8bee69b591054094d32918f98facd
+      ProjectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      ProjectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\2e\2e00efcc3d751d243900e11c36b9d73a
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\2e\2e00efcc3d751d243900e11c36b9d73a
+      ProjectPath: Library\metadata\2e\2e00efcc3d751d243900e11c36b9d73a
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\2e\2e00efcc3d751d243900e11c36b9d73a.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\2e\2e00efcc3d751d243900e11c36b9d73a.info
+      ProjectPath: Library\metadata\2e\2e00efcc3d751d243900e11c36b9d73a.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
+      ProjectPath: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+      ProjectPath: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\47\47f1f9e087d7a464bb7df9c0378a3418
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\47\47f1f9e087d7a464bb7df9c0378a3418
+      ProjectPath: Library\metadata\47\47f1f9e087d7a464bb7df9c0378a3418
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\47\47f1f9e087d7a464bb7df9c0378a3418.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\47\47f1f9e087d7a464bb7df9c0378a3418.info
+      ProjectPath: Library\metadata\47\47f1f9e087d7a464bb7df9c0378a3418.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      ProjectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      ProjectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\57\57ae03f13d5dbff42a450f563a0e0b5e
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\57\57ae03f13d5dbff42a450f563a0e0b5e
+      ProjectPath: Library\metadata\57\57ae03f13d5dbff42a450f563a0e0b5e
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\57\57ae03f13d5dbff42a450f563a0e0b5e.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\57\57ae03f13d5dbff42a450f563a0e0b5e.info
+      ProjectPath: Library\metadata\57\57ae03f13d5dbff42a450f563a0e0b5e.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\59\598f7cc167e65424284e573aff0f1294
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\59\598f7cc167e65424284e573aff0f1294
+      ProjectPath: Library\metadata\59\598f7cc167e65424284e573aff0f1294
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+      ProjectPath: Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\62\628c4c973f12f4ae5b8e6c50610f891a
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\62\628c4c973f12f4ae5b8e6c50610f891a
+      ProjectPath: Library\metadata\62\628c4c973f12f4ae5b8e6c50610f891a
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\62\628c4c973f12f4ae5b8e6c50610f891a.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\62\628c4c973f12f4ae5b8e6c50610f891a.info
+      ProjectPath: Library\metadata\62\628c4c973f12f4ae5b8e6c50610f891a.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      ProjectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      ProjectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\64\64e88129b272c5646bc46630cacda299
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\64\64e88129b272c5646bc46630cacda299
+      ProjectPath: Library\metadata\64\64e88129b272c5646bc46630cacda299
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\64\64e88129b272c5646bc46630cacda299.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\64\64e88129b272c5646bc46630cacda299.info
+      ProjectPath: Library\metadata\64\64e88129b272c5646bc46630cacda299.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
+      ProjectPath: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
+      ProjectPath: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      ProjectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      ProjectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      ProjectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      ProjectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\8e\8e251fd5475ef724894b1bd6d896c623
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\8e\8e251fd5475ef724894b1bd6d896c623
+      ProjectPath: Library\metadata\8e\8e251fd5475ef724894b1bd6d896c623
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\8e\8e251fd5475ef724894b1bd6d896c623.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\8e\8e251fd5475ef724894b1bd6d896c623.info
+      ProjectPath: Library\metadata\8e\8e251fd5475ef724894b1bd6d896c623.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      ProjectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      ProjectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      ProjectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      ProjectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
+      ProjectPath: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
+      ProjectPath: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      ProjectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      ProjectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
+      ProjectPath: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
+      ProjectPath: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\c5\c50d77affeb31e14c9c062c282f13fc8
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\c5\c50d77affeb31e14c9c062c282f13fc8
+      ProjectPath: Library\metadata\c5\c50d77affeb31e14c9c062c282f13fc8
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\c5\c50d77affeb31e14c9c062c282f13fc8.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\c5\c50d77affeb31e14c9c062c282f13fc8.info
+      ProjectPath: Library\metadata\c5\c50d77affeb31e14c9c062c282f13fc8.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      ProjectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      ProjectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      ProjectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      ProjectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
+      ProjectPath: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+      ProjectPath: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471
+      ProjectPath: Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471.info
+      ProjectPath: Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      ProjectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      ProjectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      ProjectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      ProjectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\d7\d7ea5a218770df14895b81e3602e420f
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\d7\d7ea5a218770df14895b81e3602e420f
+      ProjectPath: Library\metadata\d7\d7ea5a218770df14895b81e3602e420f
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\d7\d7ea5a218770df14895b81e3602e420f.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\d7\d7ea5a218770df14895b81e3602e420f.info
+      ProjectPath: Library\metadata\d7\d7ea5a218770df14895b81e3602e420f.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      ProjectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      ProjectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\e2\e206842104c39854182a3706fa5a67bd
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\e2\e206842104c39854182a3706fa5a67bd
+      ProjectPath: Library\metadata\e2\e206842104c39854182a3706fa5a67bd
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\e2\e206842104c39854182a3706fa5a67bd.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\e2\e206842104c39854182a3706fa5a67bd.info
+      ProjectPath: Library\metadata\e2\e206842104c39854182a3706fa5a67bd.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+      ProjectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+      ProjectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      ProjectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      ProjectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      ProjectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      ProjectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Temp\UnityLockfile
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Temp\UnityLockfile
+      ProjectPath: Temp\UnityLockfile
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Unity\Block Breaker\Temp\UnityTempFile-5528e8464c22ef649b113b86078bcbb9
+      FullPath: E:\repos\unity_class_repos\Unity\Block Breaker\Temp\UnityTempFile-5528e8464c22ef649b113b86078bcbb9
+      ProjectPath: Temp\UnityTempFile-5528e8464c22ef649b113b86078bcbb9
+      OriginalPath: 
+      Status: 1
+      Staged: 0

@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 28963f0a82101804592ccd960cbe0fd7
-timeCreated: 1511322554
+timeCreated: 1511904483
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -11,6 +11,7 @@ TextureImporter:
     21300008: bricks_left
     21300010: 1 hit
     21300012: 2 hit
+    21300014: paddle
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -98,7 +99,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 126
+        y: 169
         width: 128
         height: 41
       alignment: 0
@@ -112,7 +113,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 84
+        y: 129
         width: 64
         height: 41
       alignment: 0
@@ -125,9 +126,9 @@ TextureImporter:
       name: brick_right
       rect:
         serializedVersion: 2
-        x: 64
-        y: 84
-        width: 64
+        x: 65
+        y: 127
+        width: 63
         height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -140,7 +141,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 42
+        y: 85
         width: 128
         height: 41
       alignment: 0
@@ -154,8 +155,22 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
+        y: 43
         width: 128
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: paddle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
         height: 41
       alignment: 0
       pivot: {x: 0, y: 0}

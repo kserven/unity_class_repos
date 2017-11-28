@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -913181260, guid: e206842104c39854182a3706fa5a67bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastUpdatedAtString: 2017-11-28T15:01:45.8424969-08:00
+  lastVerifiedAtString: 2017-11-28T15:01:45.8600073-08:00
+  gitConfigBranch:
+    Name: master
+  gitConfigRemote:
+    Name: origin
+    Url: https://github.com/kserven/unity_class_repos
+  localBranches:
+  - name: master
+    tracking: origin/master
+    isActive: 1
+  - name: SightWordsK_WebGL
+    tracking: origin/SightWordsK_WebGL
+    isActive: 0
+  remoteBranches:
+  - name: origin/difference_1
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/HEAD
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/master
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/SightWordsK_WebGL
+    tracking: '[None]'
+    isActive: 0
+  remotes:
+  - name: origin
+    url: https://github.com/kserven/unity_class_repos
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - master
+    - SightWordsK_WebGL
+    values:
+    - Name: master
+    - Name: SightWordsK_WebGL
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - difference_1
+      - HEAD
+      - master
+      - SightWordsK_WebGL
+    subKeyValues:
+    - Values:
+      - Name: difference_1
+      - Name: HEAD
+      - Name: master
+      - Name: SightWordsK_WebGL
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - Name: origin
+      Url: https://github.com/kserven/unity_class_repos
