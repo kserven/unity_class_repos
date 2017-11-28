@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lastUpdatedAtString: 2017-11-27T10:43:12.3347901-08:00
-  lastVerifiedAtString: 2017-11-28T15:01:45.8515021-08:00
+  lastVerifiedAtString: 2017-11-28T15:36:20.1432201-08:00
   gitRemote:
     name: origin
     url: https://github.com/kserven/unity_class_repos
